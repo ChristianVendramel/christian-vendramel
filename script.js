@@ -1,6 +1,6 @@
 /**
  * Portfolio Website - JavaScript
- * Author: Frontend Developer
+ * Author: Frontend Developer Christian Vendramel
  * Description: Main JavaScript file for portfolio interactions
  */
 
